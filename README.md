@@ -8,4 +8,5 @@ cnn.py tested the tensorflow on CIFAR-10 dataset.
 Download data: you will need to download the CIFAR-10 dataset. Run the following from the tensorflow-tutorial directory:
 
 cd datasets
+
 ./get_datasets.sh
